@@ -121,3 +121,7 @@ Tradução em tempo real via streaming
 
 Com o Azure Translator é possível criar soluções poderosas de tradução automática para documentos, sites e sistemas corporativos.
 A API é simples, flexível e permite desde usos básicos até modelos personalizados treinados com seus próprios dados.
+
+----------------------------------------------------------------------------------------------------------------------------------
+Artigo baseado no conteúdo do desafio:
+https://www.dio.me/articles/tradutor-de-artigos-tecnicos-com-azure-ai
