@@ -1,5 +1,6 @@
 # azure-translator-project
 🌐 Tradutor de Artigos Técnicos com Azure AI
+
 Você já se perguntou como traduzir documentos ou páginas web de maneira eficiente e personalizada?
 O Azure Translator oferece um conjunto robusto de ferramentas para tradução automática que podem ser ajustadas às suas necessidades específicas.
 
